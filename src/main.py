@@ -3,7 +3,7 @@ from loader import load_quiz_data
 from handlers import handle_messages, handle_start
 import logging
 
-TG_TOKEN = "7929324135:AAGE9AhDO_PH0BNbKN732lg9X_fAAMxF8w4"
+TG_TOKEN = ""
 
 logging.basicConfig(
     level=logging.INFO,
